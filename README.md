@@ -22,7 +22,7 @@
 ## 📦 Setup 
 1. `Refer to the 'circuit_uno_home-assistant.png' diagram`
 2. `Install the 'Arduino IDE' software and open 'arduino-uno_home-assistant.ino' file`
-> ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341) before connecting the ESP32CAM to your computer.
+> ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341) before connecting the Arduino Uno to your computer.
 3. `Plug the Arduino Uno into your computer`
 4. `Tools>Board>'Arduino Uno'`
 5. `Tools>Port>'Select the arduino's port'`
