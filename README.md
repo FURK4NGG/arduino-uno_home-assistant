@@ -3,7 +3,7 @@
 
 
 ## 🚀 Features  
-<h1 align="center">When a flammable gas or high humidity and flame is detected, the system identifies a potential fire and triggers an audible alarm using a buzzer. During normal operation, the LCD screen allows you to monitor real-time humidity and time — creating a compact smart home safety project.</h1>  
+<h1 align="center">When a flammable gas or high humidity and flame is detected, the system identifies a potential fire and triggers an audible alarm using a buzzer.A mini smart home project that allows you to monitor real-time humidity and time on the LCD screen during normal operation.</h1>  
 
 
 ## 🔎 Preparation
