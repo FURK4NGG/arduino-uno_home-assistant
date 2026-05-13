@@ -2,7 +2,7 @@
 <h1 align="center">Home Assistant powered by Arduino Uno</h1>  
 
 
-![Image](https://github.com/FURK4NGG/arduino-uno_home-assistant/blob/main/{}/arduino-uno_home-assistant.webp)
+![arduino-uno_home-assistant Image](https://github.com/FURK4NGG/arduino-uno_home-assistant/blob/main/{}/arduino-uno_home-assistant.webp)
 
 
 ## 🚀 Features  
