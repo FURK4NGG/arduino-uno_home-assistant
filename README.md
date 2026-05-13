@@ -1,9 +1,7 @@
 ## 👀 arduino-uno_home-assistant 1st Generation Overview  
 <h1 align="center">Home Assistant powered by Arduino Uno</h1>  
 
-
 ![arduino-uno_home-assistant Demo Image](https://github.com/FURK4NGG/arduino-uno_home-assistant/blob/main/{}/arduino-uno_home-assistant.webp)
-
 
 ## 🚀 Features  
 <h1 align="center">When a flammable gas or high humidity and flame is detected, the system identifies a potential fire and triggers an audible alarm using a buzzer.A mini smart home project that allows you to monitor real-time humidity and time on the LCD screen during normal operation.</h1>  
